@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "PPP",
+  "PUP",
+  "PPP"
+ ],
+ "key": {
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plateBronze"
+  },
+  "U": {
+   "item": "advancedtech:casing_upgrade_improved"
+  }
+ },
+ "result": {
+  "item": "advancedtech:casing_upgrade_industrial"
+ }
+}

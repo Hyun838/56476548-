@@ -1,0 +1,20 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "RRR",
+  "CCC"
+ ],
+ "key": {
+  "R": {
+   "item": "minecraft:redstone"
+  },
+  "C": {
+   "type": "forge:ore_dict",
+   "ore": "ingotCopper"
+  }
+ },
+ "result": {
+  "item": "advancedtech:cable_lv",
+  "count": 6
+ }
+}

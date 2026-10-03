@@ -1,0 +1,23 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "GQG",
+  "GUG",
+  "GGG"
+ ],
+ "key": {
+  "G": {
+   "type": "forge:ore_dict",
+   "ore": "plateGold"
+  },
+  "Q": {
+   "item": "advancedtech:quantum_core"
+  },
+  "U": {
+   "item": "advancedtech:casing_upgrade_industrial"
+  }
+ },
+ "result": {
+  "item": "advancedtech:casing_upgrade_quantum"
+ }
+}

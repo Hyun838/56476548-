@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "advancedtech:cable_lv"
+  },
+  {
+   "type": "forge:ore_dict",
+   "ore": "ingotTin"
+  },
+  {
+   "item": "minecraft:iron_ingot"
+  }
+ ],
+ "result": {
+  "item": "advancedtech:cable_mv"
+ }
+}

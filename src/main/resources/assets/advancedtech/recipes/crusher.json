@@ -1,0 +1,25 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "FFF",
+  "ICI",
+  "IRI"
+ ],
+ "key": {
+  "F": {
+   "item": "minecraft:flint"
+  },
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "advancedtech:crusher"
+ }
+}

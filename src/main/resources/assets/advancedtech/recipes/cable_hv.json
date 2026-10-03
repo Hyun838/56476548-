@@ -1,0 +1,18 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "advancedtech:cable_mv"
+  },
+  {
+   "type": "forge:ore_dict",
+   "ore": "ingotSilver"
+  },
+  {
+   "item": "minecraft:diamond"
+  }
+ ],
+ "result": {
+  "item": "advancedtech:cable_hv"
+ }
+}

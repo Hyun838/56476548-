@@ -1,0 +1,25 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "IPI",
+  "ICI",
+  "IRI"
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "P": {
+   "item": "minecraft:piston"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "advancedtech:compressor"
+ }
+}

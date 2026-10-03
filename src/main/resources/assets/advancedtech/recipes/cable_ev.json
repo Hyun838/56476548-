@@ -1,0 +1,14 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "ingredients": [
+  {
+   "item": "advancedtech:cable_hv"
+  },
+  {
+   "item": "advancedtech:quantum_core"
+  }
+ ],
+ "result": {
+  "item": "advancedtech:cable_ev"
+ }
+}

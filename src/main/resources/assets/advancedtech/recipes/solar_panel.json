@@ -1,0 +1,29 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "GGG",
+  "CPC",
+  "IRI"
+ ],
+ "key": {
+  "G": {
+   "item": "minecraft:glass"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "P": {
+   "type": "forge:ore_dict",
+   "ore": "plateSilver"
+  },
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "advancedtech:solar_panel"
+ }
+}

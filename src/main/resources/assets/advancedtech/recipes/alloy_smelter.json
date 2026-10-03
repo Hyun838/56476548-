@@ -1,0 +1,25 @@
+{
+ "type": "minecraft:crafting_shaped",
+ "pattern": [
+  "IFI",
+  "CRC",
+  "IFI"
+ ],
+ "key": {
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "F": {
+   "item": "minecraft:furnace"
+  },
+  "C": {
+   "item": "advancedtech:circuit"
+  },
+  "R": {
+   "item": "minecraft:redstone"
+  }
+ },
+ "result": {
+  "item": "advancedtech:alloy_smelter"
+ }
+}
