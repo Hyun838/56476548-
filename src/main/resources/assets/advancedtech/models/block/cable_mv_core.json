@@ -1,0 +1,6 @@
+{
+ "parent": "advancedtech:block/cable_core",
+ "textures": {
+  "cable": "advancedtech:blocks/cable_mv"
+ }
+}
